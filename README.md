@@ -2,6 +2,7 @@
 VoxPop: AI-Driven Global Brand Sentiment &amp; Crisis Intelligence Platform
 ---
 Project:-  https://drive.google.com/drive/folders/1GGDjvjTIOEI2-kY8Z4CFntF9eqI6SXNU?usp=sharing
+Hugging face url: https://huggingface.co/spaces/GeetamSharma/voxpop-dashboard
 ## ✅ Key Results
 
 | Metric | Result | Goal |
